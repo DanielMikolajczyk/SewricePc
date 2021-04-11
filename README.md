@@ -19,3 +19,6 @@ Paginację <br>
 Skrypty odpowiedzialne za poprawę UX <br>
 Automatyczne usuwanie sesji z powodu braku aktywności <br>
 Wydruk zamówienia <br>
+
+Link do szybszego przeglądania poprzeg Google Drive:
+https://drive.google.com/drive/folders/1JHWdRwlxUt_kJhLuH6b8is7q5c6iJuFg?usp=sharing
